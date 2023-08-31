@@ -1,9 +1,4 @@
-source "https://rubygems.org"
-
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
-
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
+title: My Jekyll Site
+theme: jekyll/minima
 plugins:
-  - jekyll-include-cache
+  - jekyll-feed
