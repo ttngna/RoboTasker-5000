@@ -3,19 +3,19 @@
 <img width="602" alt="Screenshot 2023-09-03 at 10 05 53 PM" src="https://github.com/ttngna/RoboTasker5000/assets/142946998/deb2aec6-3df5-44c7-b3e5-bc1299c77de1">
 
 
-**Purpose**  
+## **Purpose**  
 
 This is a central repository for the RoboTasker 5000 (RT5000) project, including questions, user stories, requirements, and wireframes. 
 
-**Trello Board**
+## **Trello Board**
 
 <img width="1424" alt="Screenshot 2023-09-03 at 9 58 11 PM" src="https://github.com/ttngna/RoboTasker-5000/assets/142946998/b8689561-b1a1-46d1-8434-f9b187fee027">
 
 
 
-**10 Interview Questions Per Team Member** 
+## **10 Interview Questions Per Team Member** 
 
-<ins>Ngan's Chicken Soup Interview Questions:</ins>
+**<ins>Ngan's Chicken Soup Interview Questions:</ins>**
 
   1.	What ingredients are required for the chicken soup recipe? 
   2.	Can users enter the quantity of each ingredient, or will it be preset? 
@@ -28,7 +28,7 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
   9.	Are users able to specify how they want the robot to notify them when the soup is done?
   10.	How does the robot indicate that its task is done and ready for the next step? 
 
-<ins>Tianna's Chef Salad Interview Questions:</ins>
+**<ins>Tianna's Chef Salad Interview Questions:</ins>**
 
   1.	How does the robot identify and handle the various ingredients required for a Chef salad, such as veggies, proteins, and dressings?
   2.	How does the robot ensure accurate portion control for each ingredient in the salad?
@@ -41,7 +41,7 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
   9.	How does the robot and its app interact with users? Does it provide information to users about the progress of their salad?
   10.	What steps are taken to minimize food waste in the preparation of the Chef salad?
 
-<ins>Ruth's Chili & Rice Interview Questions:</ins>
+**<ins>Ruth's Chili & Rice Interview Questions:</ins>**
 
   1.	Can you provide a detailed description of the chili and rice recipe, including all the ingredients and their quantities?
   2.	What specific cooking techniques are required for this recipe, and should the RT5000 perform any of these tasks?
@@ -54,7 +54,7 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
   9.	Are there any potential challenges or complexities in this recipe that the RT5000 should be able to handle, such as stirring, chopping, or adjusting heat levels?
   10.	What are the desired outcomes and quality standards for the final dish, and how will the RT5000 be evaluated based on these criteria?
 
-**Ngan's 10 User Stories with Essential Functional and Non-Functional Requirements** 
+## **Ngan's 10 User Stories with Essential Functional and Non-Functional Requirements** 
 
 | User Stories | Functional Requirements | Non-Functional Requirements | 
 | ---- | ---- | ---- |
@@ -69,7 +69,7 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 | 9.	As a user who is not tech savvy, I want to be able to set up the robotasker quickly for household tasks, ensuring proper usage and timely cleans. |	The app should provide a setup wizard that guides non-tech savvy users through the initial RT5000 setup, ensuring a quick and straightforward configuration process. | The app’s setup wizard and task scheduling features should be designed with simplicity and user-friendliness, minimize technical jargon and complexity to accommodate users that are non-tech savvy. |
 | 10.	As a maintenance technician, I want the robotasker's system to generate automated maintenance alert, so that I can schedule and maintain maintenance tasks regularly and efficiently. | The system should provide a mechanism for maintenance technicians to track completed maintenance, mark them as done, and record relevant details, ensuring efficient task management and record keeping. | Maintenance alerts must be generated and delivered in a timely manner, allowing technicians to schedule and perform maintenance tasks promptly and prevent potential issues.|
 
-**Tianna's 10 User Stories with Essential Functional and Non-Functional Requirements** 
+## **Tianna's 10 User Stories with Essential Functional and Non-Functional Requirements** 
 
 | User Stories | Functional Requirements | Non-Functional Requirements | 
 | ---- | ---- | ---- |
@@ -84,7 +84,7 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 | ---- | ---- | ---- |
 | ---- | ---- | ---- |
 
-**Ruth's 10 User Stories with Essential Functional and Non-Functional Requirements** 
+## **Ruth's 10 User Stories with Essential Functional and Non-Functional Requirements** 
 
 | User Stories | Functional Requirements | Non-Functional Requirements | 
 | ---- | ---- | ---- |
@@ -100,7 +100,7 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 | ---- | ---- | ---- |
 
 
-**Top 10 Prioritized Requirements In Respective Order** 
+## **Top 10 Prioritized Requirements In Respective Order** 
 
 | User Stories | Functional Requirements | Non-Functional Requirements | 
 | ---- | ---- | ---- |
@@ -116,7 +116,7 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 | 10.	As a family member, I want to create and manage a shared grocery shopping list within the RT5000 app, so that we can ensure we have all the necessary items and avoid forgetting anything when we go shopping together. | The RT 5000 app must allow family members to create and share a grocery shopping list. This feature should enable users to add, remove, or edit items on the list and easily share it with other family members. It should also support real-time synchronization, so all users see updates instantly. | The RT5000 app should have reliable and fast synchronization capabilities, ensuring that all family members have immediate access to the shared grocery list, regardless of their location or the device they are using. This synchronization should occur seamlessly and with minimal latency to facilitate effective coordination during shopping trips. |
 
 
-**Why Top 10 In This Order?** 
+## **Why Top 10 In This Order?** 
 
 The prioritized list of requirements demonstrates a thoughtful consideration of user needs and preferences, ensuring that the RT5000 app caters to a wide range of users and provides valuable functionality. At the top of the list, an enormous concern for cybersecurity and privacy protocols highlights a commitment to safeguarding user data, instilling trust, and preventing unauthorized access. This foundational requirement sets the stage for a secure and reliable user experience. 
 
@@ -128,3 +128,4 @@ Further down the list, the integration of financial planning and grocery list ma
 
 Overall, the prioritization of these user stories reflects a user-centric approach, where security and fundamental usability comes first, followed by features that enhance convenience, control, and the overall quality of family life. This prioritization aligns with the goal of making the RT5000 app a valuable and indispensable tool for users, catering to their essential needs and aspirations. 
 
+## **Wireframes** 
