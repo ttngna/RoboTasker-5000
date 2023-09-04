@@ -46,9 +46,31 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 
 | Ngan's Functional Requirements | 
 | ----|
+| 1.	User’s can remotely start, pause, stop, or schedule tasks remotely using the app, providing flexibility and control. |
+| 2.	User’s can personalize the app’s home screen by customizing the arrangement and appearance of widget and themes, including adding, removing, and resizing widgets. |
+| 3.	The app is compatible with a variety of devices and operating systems, including smartphones, tablets, and web browsers, allowing users to access it on their preferred devices. |
+| 4.	The app features real-time chat support, enabling users to communicate with support agents, send messages, images, and screenshots for troubleshooting. |
+| 5.	The app enables the RT5000 to detect and navigate around obstacles during task execution, ensuring the safety of children and pets. |
+| 6.	User’s should have the ability to manage and switch between their individual profiles within the app, ensuring seamless access to their personalized schedules and tasks. |
+| 7.	The app needs to have privacy protocols, including user data encryption and secure authentication mechanisms to protect customer information from unauthorized access. |
+| 8.	The app should allow users to set up maintenance and cleaning reminders for the RT5000, specifying frequency and preferred notification method (i.e. push notifications, text, email). |
+| 9.	The app should provide a setup wizard that guides non-tech savvy users through the initial RT5000 setup, ensuring a quick and straightforward configuration process. |
+| 10.	The system should provide a mechanism for maintenance technicians to track completed maintenance, mark them as done, and record relevant details, ensuring efficient task management and record keeping. |
 
-| Ngan's Non-Functional Requirements | 
-| ----|
+
+**Ngan's Non-Functional Requirements** 
+1.	Access to remote monitoring and control features must be secure and require user authentication, ensuring only authorized users can interact with the RT5000 through the app.
+2.	The app remains responsive and efficient, loading quickly and handling interactions smoothly even with extensive customization, including widgets and theme changes.
+3.	The app is optimized for performance on various devices and screen sizes, loading within seconds and responding smoothly across all devices to provide a consistent user experience.
+4.	The chat support system is available during operational hours, guaranteeing quick responses with support agent acknowledging user inquiries within minutes.
+5.	The obstacle detection system operates in real-time with minimal delay, ensuring the RT5000 quickly recognises and responds to changes in its environment, avoiding collisions.
+6.	The app should efficiently handle a growing number of user profiles as more household members create individual accounts, maintaining optimal performance and responsiveness.
+7.	The app needs to adhere to relevant privacy regulations/industry standards, demonstrating commitment to customer data protection and compliance with cybersecurity best practices.
+8.	Reminders must be delivered reliably and on time, regardless of user’s device or notification preferences, ensuring that forgetful users receive timely maintenance alerts.
+9.	The app’s setup wizard and task scheduling features should be designed with simplicity and user-friendliness, minimize technical jargon and complexity to accommodate users that are non-tech savvy.
+10.	Maintenance alerts must be generated and delivered in a timely manner, allowing technicians to schedule and perform maintenance tasks promptly and prevent potential issues.
+
+
 
 **Tianna's 10 User Stories with Essential Functional and Non-Functional Requirements** 
 
