@@ -100,7 +100,7 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 | ---- | ---- | ---- |
 
 
-**Top 10 Prioritized Requirements** 
+**Top 10 Prioritized Requirements In Respective Order** 
 
 | User Stories | Functional Requirements | Non-Functional Requirements | 
 | ---- | ---- | ---- |
