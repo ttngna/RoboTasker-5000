@@ -33,7 +33,8 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 
 | Ngan's User Stories | 
 | ----|
-| 1.	As a busy parent, I want to be able to remotely monitor and control the RT5000s activity through my mobile device, ensuring that I can manage household tasks from anywhere. | | 2.	As a user, I want to make sure that the app is user-friendly, and the appearance of the app is easily customizable so that I can personalize it to match my preferences. |
+| 1.	As a busy parent, I want to be able to remotely monitor and control the RT5000s activity through my mobile device, ensuring that I can manage household tasks from anywhere. | 
+| 2.	As a user, I want to make sure that the app is user-friendly, and the appearance of the app is easily customizable so that I can personalize it to match my preferences. |
 | 3.	As a user, I want the app to be compatible with different devices so that I can use it on my preferred device. |
 | 4.	As someone who faces difficulty using apps, I would like chat support to assist me in real-time with troubleshooting issues with the app or the RT5000, so that I can resolve issues promptly. |
 | 5.	As a parent, I want the app to enable the robotasker to detect and avoid obstacles, avoiding harm to children and pets. |
