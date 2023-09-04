@@ -131,3 +131,6 @@ Further down the list, the integration of financial planning and grocery list ma
 Overall, the prioritization of these user stories reflects a user-centric approach, where security and fundamental usability comes first, followed by features that enhance convenience, control, and the overall quality of family life. This prioritization aligns with the goal of making the RT5000 app a valuable and indispensable tool for users, catering to their essential needs and aspirations. 
 
 ## **Wireframes** 
+
+<img width="853" alt="Screenshot 2023-09-04 at 10 10 59 AM" src="https://github.com/ttngna/RoboTasker-5000/assets/142946998/d899b17c-fd58-41bd-af8d-e55272c9291c">
+
