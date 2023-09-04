@@ -72,9 +72,31 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 
 **Tianna's 10 User Stories with Essential Functional and Non-Functional Requirements** 
 
-| Tianna's User Stories | 
-| ----|
+| User Stories | Functional Requirements | Non-Functional Requirements | 
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
 
 **Ruth's's 10 User Stories with Essential Functional and Non-Functional Requirements** 
-| Ruth's User Stories | 
-| ----|
+
+| User Stories | Functional Requirements | Non-Functional Requirements | 
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+| ---- | ---- | ---- |
+
