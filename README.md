@@ -28,3 +28,6 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 | Will the app notify the user when the soup is ready? If so, how?| Is the robot’s app designed to allow users to customize their Chef salad? If so, how does the customization work? | Can you specify any specific timing or sequencing requirements for the RT5000's actions during the recipe preparation? |
 | Are users able to specify how they want the robot to notify them when the soup is done? | How does the robot and its app interact with users? Does it provide information to users about the progress of their salad? | Are there any potential challenges or complexities in this recipe that the RT5000 should be able to handle, such as stirring, chopping, or adjusting heat levels? |
 | How does the robot indicate that its task is done and ready for the next step? | What steps are taken to minimize food waste in the preparation of the Chef salad? | What are the desired outcomes and quality standards for the final dish, and how will the RT5000 be evaluated based on these criteria? |
+
+**10 User Stories with Essential Functional and Non-Functional Requirements** 
+
