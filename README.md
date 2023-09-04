@@ -15,18 +15,18 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 
 **10 Interview Questions Per Team Member** 
 
-| Ngan's Interview Questions: | 
-| ---- |
-| 1.	What ingredients are required for the chicken soup recipe? 
-2.	Can users enter the quantity of each ingredient, or will it be preset? 
-3.	Does the robot have to prep any of the ingredients (i.e. wash, peel, or chop)? 
-4.	What are the cooking methods involved in making the chicken soup (boil, simmer)? 
-5.	Can users set cooking time and temperature through the app? 
-6.	Can users customize the recipe by adjusting ingredient quantities or adding their own? 
-7.	Will the robot need to pause at certain steps for user interactions (i.e. tasting and adjusting seasoning)
-8.	Will the app notify the user when the soup is ready? If so, how? 
-9.	Are users able to specify how they want the robot to notify them when the soup is done?
-10.	How does the robot indicate that its task is done and ready for the next step? |
+==Ngan's Interview Questions:== 
+
+  1.	What ingredients are required for the chicken soup recipe? 
+  2.	Can users enter the quantity of each ingredient, or will it be preset? 
+  3.	Does the robot have to prep any of the ingredients (i.e. wash, peel, or chop)? 
+  4.	What are the cooking methods involved in making the chicken soup (boil, simmer)? 
+  5.	Can users set cooking time and temperature through the app? 
+  6.	Can users customize the recipe by adjusting ingredient quantities or adding their own? 
+  7.	Will the robot need to pause at certain steps for user interactions (i.e. tasting and adjusting seasoning)
+  8.	Will the app notify the user when the soup is ready? If so, how? 
+  9.	Are users able to specify how they want the robot to notify them when the soup is done?
+  10.	How does the robot indicate that its task is done and ready for the next step? 
 
 
 | Ngan - Chicken Soup | Tianna - Chef Salad | Ruth - Chili & Rice | 
