@@ -29,7 +29,7 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 | Are users able to specify how they want the robot to notify them when the soup is done? | How does the robot and its app interact with users? Does it provide information to users about the progress of their salad? | Are there any potential challenges or complexities in this recipe that the RT5000 should be able to handle, such as stirring, chopping, or adjusting heat levels? |
 | How does the robot indicate that its task is done and ready for the next step? | What steps are taken to minimize food waste in the preparation of the Chef salad? | What are the desired outcomes and quality standards for the final dish, and how will the RT5000 be evaluated based on these criteria? |
 
-**10 User Stories with Essential Functional and Non-Functional Requirements Per Team Member** 
+**Ngan's 10 User Stories with Essential Functional and Non-Functional Requirements** 
 
 | Ngan's User Stories | 
 | ----|
@@ -44,6 +44,17 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 | 9.	As a user who is not tech savvy, I want to be able to set up the robotasker quickly for household tasks, ensuring proper usage and timely cleans. |
 | 10.	As a maintenance technician, I want the robotasker's system to generate automated maintenance alert, so that I can schedule and maintain maintenance tasks regularly and efficiently. | 
 
+| Ngan's Functional Requirements | 
+| ----|
+
+| Ngan's Non-Functional Requirements | 
+| ----|
+
+**Tianna's 10 User Stories with Essential Functional and Non-Functional Requirements** 
 
 | Tianna's User Stories | 
+| ----|
+
+**Ruth's's 10 User Stories with Essential Functional and Non-Functional Requirements** 
+| Ruth's User Stories | 
 | ----|
