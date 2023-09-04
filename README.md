@@ -5,7 +5,7 @@
 
 **Purpose**  
 
-This is a central repository for the RoboTasker5000 (RT5000) project, including questions, user stories, requirements, and wireframes. 
+This is a central repository for the RoboTasker 5000 (RT5000) project, including questions, user stories, requirements, and wireframes. 
 
 **Trello Board**
 
