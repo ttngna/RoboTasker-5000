@@ -16,6 +16,7 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 
 
 | Ngan | Tianna | Ruth | 
+| ---- | ------ | ---- |
 | What ingredients are required for the chicken soup recipe? | How does the robot identify and handle the various ingredients required for a Chef salad, such as veggies, proteins, and dressings? | Can you provide a detailed description of the chili and rice recipe, including all the ingredients and their quantities? |
 | Can users enter the quantity of each ingredient, or will it be preset? | How does the robot ensure accurate portion control for each ingredient in the salad? | What specific cooking techniques are required for this recipe, and should the RT5000 perform any of these tasks? |
 | Does the robot have to prep any of the ingredients (i.e. wash, peel, or chop)? | What features does the robot have that ensure quality and freshness for ingredients in the Chef salad? | Are there any variations or dietary restrictions we should consider when preparing this dish? |
