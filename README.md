@@ -13,7 +13,7 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 
 
 
-**Interview Questions Per Team Member Per Recipes** 
+**Interview Questions Per Team Member** 
 
 
 | Ngan - Chicken Soup | Tianna - Chef Salad | Ruth - Chili & Rice | 
