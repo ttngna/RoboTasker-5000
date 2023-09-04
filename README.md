@@ -33,7 +33,14 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 
 | Ngan's User Stories | 
 | ----|
-| 1. As a busy parent, I want to be able to remotely monitor and control the RT5000s activity through my mobile device, ensuring that I can manage household tasks from anywhere. | 2.	As a user, I want to make sure that the app is user-friendly, and the appearance of the app is easily customizable so that I can personalize it to match my preferences. | 3.	As a user, I want the app to be compatible with different devices so that I can use it on my preferred device. | 4.	As someone who faces difficulty using apps, I would like chat support to assist me in real-time with troubleshooting issues with the app or the RT5000, so that I can resolve issues promptly. | 5.	As a parent, I want the app to enable the robotasker to detect and avoid obstacles, avoiding harm to children and pets. | 6.	As a household with multiple members, we would like the RT5000 app to allow all of us to create individual profiles, each displaying schedules and household tasks, so that it ensures efficient task allocation. | 7.	As cybersecurity specialist, I want to make sure that privacy protocols are in place and customer information is protected so that it prevents unauthorized users. | 8.	As a forgetful user, I want the app to send reminders for when its due for maintenance or cleaning. | 9.	As a user who is not tech savvy, I want to be able to set up the robotasker quickly for household tasks, ensuring proper usage and timely cleans. | 10.	As a maintenance technician, I want the robotasker's system to generate automated maintenance alert, so that I can schedule and maintain maintenance tasks regularly and efficiently. | 
+| 1. As a busy parent, I want to be able to remotely monitor and control the RT5000s activity through my mobile device, ensuring that I can manage household tasks from anywhere. 
+**Functional Requirement** User’s can remotely start, pause, stop, or schedule tasks remotely using the app, providing flexibility and control. 
+**Non-Functional Requirement** Access to remote monitoring and control features must be secure and require user authentication, ensuring only authorized users can interact with the RT5000 through the app. 
+
+2.	As a user, I want to make sure that the app is user-friendly, and the appearance of the app is easily customizable so that I can personalize it to match my preferences.
+**Functional Requirement** User’s can personalize the app’s home screen by customizing the arrangement and appearance of widget and themes, including adding, removing, and resizing widgets.
+**Non-Functional Requirement** The app remains responsive and efficient, loading quickly and handling interactions smoothly even with extensive customization, including widgets and theme changes.
+
 
 | Tianna's User Stories | 
 | ----|
