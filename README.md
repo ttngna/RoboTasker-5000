@@ -34,12 +34,16 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 | Ngan's User Stories | 
 | ----|
 | 1. As a busy parent, I want to be able to remotely monitor and control the RT5000s activity through my mobile device, ensuring that I can manage household tasks from anywhere. 
-**Functional Requirement** User’s can remotely start, pause, stop, or schedule tasks remotely using the app, providing flexibility and control. 
-**Non-Functional Requirement** Access to remote monitoring and control features must be secure and require user authentication, ensuring only authorized users can interact with the RT5000 through the app. 
 
-2.	As a user, I want to make sure that the app is user-friendly, and the appearance of the app is easily customizable so that I can personalize it to match my preferences.
+**Functional Requirement** User’s can remotely start, pause, stop, or schedule tasks remotely using the app, providing flexibility and control. 
+
+**Non-Functional Requirement** Access to remote monitoring and control features must be secure and require user authentication, ensuring only authorized users can interact with the RT5000 through the app.| 
+| ----| 
+| 2.	As a user, I want to make sure that the app is user-friendly, and the appearance of the app is easily customizable so that I can personalize it to match my preferences.
+
 **Functional Requirement** User’s can personalize the app’s home screen by customizing the arrangement and appearance of widget and themes, including adding, removing, and resizing widgets.
-**Non-Functional Requirement** The app remains responsive and efficient, loading quickly and handling interactions smoothly even with extensive customization, including widgets and theme changes.
+
+**Non-Functional Requirement** The app remains responsive and efficient, loading quickly and handling interactions smoothly even with extensive customization, including widgets and theme changes. | 
 
 
 | Tianna's User Stories | 
