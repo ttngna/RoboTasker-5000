@@ -69,7 +69,6 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 | 9.	As a user who is not tech savvy, I want to be able to set up the robotasker quickly for household tasks, ensuring proper usage and timely cleans. |	The app should provide a setup wizard that guides non-tech savvy users through the initial RT5000 setup, ensuring a quick and straightforward configuration process. | The app’s setup wizard and task scheduling features should be designed with simplicity and user-friendliness, minimize technical jargon and complexity to accommodate users that are non-tech savvy. |
 | 10.	As a maintenance technician, I want the robotasker's system to generate automated maintenance alert, so that I can schedule and maintain maintenance tasks regularly and efficiently. | The system should provide a mechanism for maintenance technicians to track completed maintenance, mark them as done, and record relevant details, ensuring efficient task management and record keeping. | Maintenance alerts must be generated and delivered in a timely manner, allowing technicians to schedule and perform maintenance tasks promptly and prevent potential issues.|
 
-
 **Tianna's 10 User Stories with Essential Functional and Non-Functional Requirements** 
 
 | User Stories | Functional Requirements | Non-Functional Requirements | 
@@ -85,7 +84,7 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 | ---- | ---- | ---- |
 | ---- | ---- | ---- |
 
-**Ruth's's 10 User Stories with Essential Functional and Non-Functional Requirements** 
+**Ruth's 10 User Stories with Essential Functional and Non-Functional Requirements** 
 
 | User Stories | Functional Requirements | Non-Functional Requirements | 
 | ---- | ---- | ---- |
