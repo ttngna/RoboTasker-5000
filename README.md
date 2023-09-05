@@ -106,7 +106,7 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 | Top 10 Requirements | 
 | ---- |
 | 1. The app needs to have privacy protocols, including user data encryption and secure authentication mechanisms to protect customer information from unauthorized access |
-| 2. User’s can personalize the app’s home screen by customizing the arrangement and appearance of widget and themes, including adding, removing, and resizing widgets. | The app remains responsive and efficient, loading quickly and handling interactions smoothly even with extensive customization, including widgets and theme changes. |
+| 2. User’s can personalize the app’s home screen by customizing the arrangement and appearance of widget and themes, including adding, removing, and resizing widgets. | 
 | 3. The app is optimized for performance on various devices and screen sizes, loading within seconds and responding smoothly across all devices to provide a consistent user experience. |
 | 4. User’s can remotely start, pause, stop, or schedule tasks remotely using the app, providing flexibility and control. |	
 | 5. The robot should efficiently clean the designated areas within the scheduled time, ensuring a clean home upon the user's arrival. |
