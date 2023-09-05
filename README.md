@@ -112,7 +112,7 @@ This is a central repository for the RoboTasker 5000 (RT5000) project, including
 | 5. The robot should efficiently clean the designated areas within the scheduled time, ensuring a clean home upon the user's arrival. |
 | 6. User’s should have the ability to manage and switch between their individual profiles within the app, ensuring seamless access to their personalized schedules and tasks. | 
 | 7. The RT5000 app must allow parents to create and assign chores to their children, specifying details such as chore name, description, due date, and the child responsible for it. | 
-| 8. RT5000 app will include a child-lock feature that can be enabled or disabled by the parent. | The child-lock feature must provide robust security to prevent unauthorized access or changes to the robot's tasks and schedules. |
+| 8. RT5000 app will include a child-lock feature that can be enabled or disabled by the parent. | 
 | 9.	The RT 5000 app must provide a budget management feature that allows the financial planner to input, categorize, and track family expenses related to groceries. This feature should support the ability to set budget limits, view expense summaries, and receive alerts when approaching or exceeding budget thresholds. |
 | 10.	The RT 5000 app must allow family members to create and share a grocery shopping list. This feature should enable users to add, remove, or edit items on the list and easily share it with other family members. It should also support real-time synchronization, so all users see updates instantly. |
 
