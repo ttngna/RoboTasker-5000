@@ -129,5 +129,6 @@ Finally, requirements 9 and 10 introduce financial planning and grocery list man
 
 ## **Wireframes** 
 
-<img width="861" alt="Screenshot 2023-09-05 at 11 13 32 AM" src="https://github.com/ttngna/RoboTasker-5000/assets/142946998/979d63cb-a719-4bc3-9987-26a44a3a06a1">
+<img width="846" alt="Screenshot 2023-09-05 at 11 16 18 AM" src="https://github.com/ttngna/RoboTasker-5000/assets/142946998/c61c5fe0-f7c8-4b6b-ac4e-d47a8b0f7860">
+
 
